@@ -35,7 +35,8 @@ npm
 <p>Create new config.json to put apikey and reference it</p>
 
 <h2>Hooks</h2>
-<p>Setup useLocation using expo-location to gain permissions, find user location, reverse geocode user location for postal code, then return postal code for future local screen,</p>
+<p>Setup useLocation using expo-location to gain permissions, find user location, reverse
+   geocode user location for postal code, then return postal code for future local screen,</p>
 <p>Setup useShopResults to search using api from shop.com and return search function, results, and error messages</p>
 
 <h2>Components</h2>
@@ -54,3 +55,18 @@ npm
 <h2>Navigation</h2>
 <p>The main navigation will be tabs at the bottom of the screen, but some screens will be on a stack to allow user to go back</p>
 <img src="https://github.com/zachywheeler/Shop.com/blob/master/Shop%20App.png?raw=true">
+
+
+<h2>Build</h2>
+<p>Building and compiling are easily done with expo, and editing app.json to format for both Android and iOS.</p>
+
+<h2>Strengths</h2>
+<p>Aesthetically pleasing user interface that changes works smoohthly 
+  between iOS and Android. Utilizes fully featured website, to give a new experience as the website updates.
+  Uses Device location to offer local deals to user. Api retrieves products and 
+  product details. Available on https://expo.io/@zachywheeler/shop-zachy
+</p>
+
+<h2>Limitations</h2>
+<p>The overall filesize is large and could be more optimized over time. Lacking other functionalities of 
+  website, such as categories, filter, and login. Headers are rendered for a second before removed.</p>
