@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "Shop.com-zach",
+    "slug": "shop-zachy",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "cover"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.shop.zachyy",
+      "supportsTablet": true,
+      "buildNumber": "1.0.1"
+    },
+    "android": {
+      "package": "com.shop.zachy",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptiveIcon.png",
+        "backgroundColor": "#00a8ca"
+      },
+      "permissions": [
+        "ACCESS_FINE_LOCATION"
+      ],
+      "versionCode": 2
+    },
+    "description": "Shop.com app assignment"
+  }
+}
