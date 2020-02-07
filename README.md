@@ -72,5 +72,5 @@ npm
   website, such as categories, filter, and login. Headers are rendered for a second before removed.</p>
   
 <h2>Download Links</h2>
-<a href="https://drive.google.com/open?id=1WeTb8vYDhwYuWWbUx6qxNHmkXFQe6RVi">Android .apk</a>
+<a href="https://drive.google.com/open?id=1WeTb8vYDhwYuWWbUx6qxNHmkXFQe6RVi">Android .apk</a> <br>
 <a href="https://drive.google.com/open?id=1PXORtD94hIk2L0vCvoOVKHTbhLk33Y87">iOS .ipa</a>
