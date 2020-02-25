@@ -14,6 +14,7 @@ export default function LocalScreen() {
     <>
       <StatusBar hidden />
       <WebView
+        startInLoadingState={true}
         javaScriptEnabled
         injectedJavaScript={
           "function injectRules() {" + removeHeaders + "};injectRules();"
