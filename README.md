@@ -71,6 +71,9 @@ npm
 <p>The overall filesize is large and could be more optimized over time. Lacking other functionalities of 
   website, such as categories, filter, and login. Headers are rendered for a second before removed.</p>
   
+  <h2>Updates</h2>
+  <p> added navigation to homescreen, and adjusted product list screen formatting</p>
+  
 <h2>Download Links</h2>
-<a href="https://drive.google.com/open?id=1WeTb8vYDhwYuWWbUx6qxNHmkXFQe6RVi">Android .apk</a> <br>
-<a href="https://drive.google.com/open?id=1PXORtD94hIk2L0vCvoOVKHTbhLk33Y87">iOS .ipa</a>
+<a href="https://drive.google.com/open?id=16K5Zh-WnluYOkBv_upNOp-Z_d-7Z9RTL">Android .apk</a> <br>
+<a href="https://drive.google.com/open?id=1M-IAKyLbInfff_2iwdX9eYBIDIPDxgmu">iOS .ipa</a>
